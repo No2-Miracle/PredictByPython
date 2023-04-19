@@ -1,6 +1,3 @@
-import cv2
-import math
-import torch
 import timm
 import torch.nn as nn
 from torchvision import transforms
