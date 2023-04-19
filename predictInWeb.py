@@ -1,5 +1,6 @@
 from PIL import Image
 from torchutils import *
+import torch
 
 
 if torch.cuda.is_available():
